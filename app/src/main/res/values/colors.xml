@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3482a8</color>
+    <color name="colorPrimaryDark">#3482a8</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <!-- START EASIER TO REMEMBER -->
+    <color name="bgs">#e1ecf2</color>
+    <color name="bluered1">#08B2C9</color>
+    <color name="bluered2">#097B96</color>
+    <color name="login">#b5b2af</color>
+    <color name="hint">#eeeeee</color>
+    <color name="hitam">#000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="textarea">#555b64</color>
+    <color name="putih">#ffffff</color>
+    <color name="oren">#FF6A00</color>
+    <color name="oren_gelap">#7F3300</color>
+    <color name="biru1">#7FFFC5</color>
+    <color name="biru_skype">#00AFF0</color>
+    <color name="ijo_gelap">#5B7F00</color>
+    <color name="biru_gelap">#007F7F</color>
+    <color name="box_ku">#eeeeee</color>
+    <color name="ijo1">#49e13e</color>
+    <!-- EOF EASIER TO REMEMBER -->
+</resources>

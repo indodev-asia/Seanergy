@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Seanergy</string>
+
+    <!-- start base texts -->
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <!-- eof base texts -->
+
+
+    <!-- START FONT AWESOME -->
+    <string name="fa_tombol_login">&#xf023; Login</string>
+    <string name="fa_tombol_fp">&#xf128; Lupa Password</string>
+    <string name="fa_tombol_reset_pass">&#xf01e; Reset Password</string>
+    <string name="fa_tombol_lanjut">&#xf061; Lanjut</string>
+    <string name="fa_tombol_kirim">&#xf061; Kirim</string>
+    <string name="fa_tombol_pilih_foto">&#xf1c5; Pilih Foto</string>
+    <string name="fa_tombol_back">&#xf104; Back</string>
+    <!-- EOF FONT AWESOME -->
+
+
+    <!-- START BACKEND URLS -->
+    <string name="url_cek_sesi">http://192.168.43.140/2019/seanergy/proc/proc_cek_sesi.php</string>
+    <string name="url_login">http://192.168.43.140/2019/seanergy/proc/login.php</string>
+    <string name="url_proc_check_conn">http://192.168.43.140/2019/seanergy/proc/proc_check_conn.php</string>
+
+
+    <!-- EOF BACKEND URLS -->
+</resources>
