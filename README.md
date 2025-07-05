@@ -1,4 +1,7 @@
 **Seanergy**
 
 Android application for cooperative - developed using java android studio 
-year development : 2018
+<br>
+code by Anton (www.indodev.asia)
+<br>
+developed 2018
